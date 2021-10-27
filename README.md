@@ -8,3 +8,6 @@ Here are some ideas to get you started:
 - How to reach me:
     * Linkedin :  www.linkedin.com/in/mustapha-bedoui-6104201b6
     * E-mail : mustapha.bedoui@ensta-paris.fr
+- Languages and Tools: 
+    * Python
+    * C and C++
