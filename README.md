@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -  I’m currently learning image processing. And soon i will start machine Learning courses
 
 - How to reach me:
-    * Linkedin :  www.linkedin.com/in/mustapha-bedoui-6104201b6
+    * Linkedin :  www.linkedin.com/in/mustapha-bedoui
     * E-mail : mustapha.bedoui@ensta-paris.fr
 - Languages and Tools: 
     * Python
